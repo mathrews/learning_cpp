@@ -1,0 +1,3 @@
+/home/matedev/projects/learning_cpp/basic_notions/cmake-build-debug/CMakeFiles/basic_notions.dir
+/home/matedev/projects/learning_cpp/basic_notions/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matedev/projects/learning_cpp/basic_notions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

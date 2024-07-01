@@ -1,0 +1,7 @@
+# ninja log v6
+1	162	1719842588318017524	CMakeFiles/basic_notions.dir/main.cpp.o	3dcda9c8c2e1696f
+1	165	1719842588318017524	CMakeFiles/basic_notions.dir/test.cpp.o	956b3c7fafefdb93
+165	203	1719842588482017282	basic_notions	c89fa5b0458f1cc2
+1	151	1719842892909567388	CMakeFiles/basic_notions.dir/main.cpp.o	3dcda9c8c2e1696f
+1	151	1719842892909567388	CMakeFiles/basic_notions.dir/exercise.cpp.o	36a46628c4834d89
+151	186	1719842893059567167	basic_notions	88879da6fa5dd7b0
